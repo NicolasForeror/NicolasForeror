@@ -7,8 +7,8 @@
 
 body {
     font-size: 2rem; 
-    font-family: 'Russo One', sans-serif;
-    background-color:rgb(255, 255, 255)  ;
+    font-family: 'Fuggles', cursiva;
+    background-color:rgb(39, 36, 36)  ;
     color:rgb(255, 0, 0);
     padding: 2rem;
 }
@@ -27,7 +27,7 @@ h1{
 }
 .product {
     overflow: hidden;
-background: rgb(255, 108, 108);
+background: rgb(34, 32, 32);
 text-align: center;
 width: 280px;
 height: 280px;
@@ -54,7 +54,7 @@ font-size: 1.5rem;
 }
 
 .button-btn {
-    border: 3px solid rgb(0, 255, 8);
+    border: 3px solid rgb(0, 0, 0);
     padding: 0.4rem 0.4rem;
     background-color: rgb(255, 0, 0);
     border-radius: 1.5rem;
